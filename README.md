@@ -48,7 +48,7 @@ python get_perplexity.py \
 ```bash
 bash scripts/qwen2.5_1.5b+7b_kk.sh
 ```
-The CPT checkpoints are available at [https://huggingface.co/collections/pkupie/logit-fusion](https://huggingface.co/collections/pkupie/logit-fusion).
+The CPT checkpoints are available at [https://huggingface.co/collections/pkupie/logit-fusion-for-lrl](https://huggingface.co/collections/pkupie/logit-fusion-for-lrl).
 
 
 5. Evaluate the results with the evaluation script. The first argument is the path to the generated results in `inference_results/`, and the second argument is the language code.
